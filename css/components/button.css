@@ -1,0 +1,11 @@
+.btn-cta {
+	background-color: steelblue;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-family: 'Roboto', sans-serif;
+}
+.btn-cta:hover {
+	background-color: #1a6394;
+	color: white;
+}
